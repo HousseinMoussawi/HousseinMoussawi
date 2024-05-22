@@ -28,6 +28,6 @@ Welcome to my GitHub profile! I am a passionate software developer specializing 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussein.a.msw@gmail.com)
 
 ## Projects
-Feel free to explore my repositories to see more of my work!
+Feel free to explore my repositories to see my work!
 
 
