@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a passionate software developer specializing 
 ### MERN Stack
 | M | E | R | N |
 |---|---|---|---|
-| ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | ![Express](https://img.icons8.com/ios-filled/50/000000/express-js.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) |
+| ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | ![Express](https://img.icons8.com/fluency/48/000000/express-js.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) |
 
 ### Other Technologies
 | HTML | CSS | JavaScript | TypeScript |
